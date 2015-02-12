@@ -1,0 +1,16 @@
+body {
+	background-color: #4db6ac;
+	text-align: center;
+}
+
+h1 {
+	color: #424242;
+	font-family: 'Oswald', sans-serif;
+	font-size: 60px;
+}
+
+p, h3, a {
+	font-family: 'Quattrocento Sans', sans-serif;
+	color: #455a64;
+}
+
